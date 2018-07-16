@@ -11,3 +11,5 @@ function show () {
 show ()
 
 store.subscribe(show)
+
+//这是stage2分支
