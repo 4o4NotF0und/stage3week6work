@@ -16,3 +16,6 @@ store.subscribe(show)
 //张博叫二狗子
 
 //v1.0 ok
+
+
+//一年后，出现新的版本
