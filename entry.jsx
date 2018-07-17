@@ -13,3 +13,4 @@ show ()
 store.subscribe(show)
 
 //这是stage2分支
+//张博叫二狗子
