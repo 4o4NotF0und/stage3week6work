@@ -9,7 +9,7 @@ function show () {
 }
 
 show ()
-
+//stage1分支
 store.subscribe(show)
 
 //这是stage2分支
