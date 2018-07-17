@@ -9,5 +9,6 @@ function show () {
 }
 
 show ()
+show ()
 
 store.subscribe(show)
