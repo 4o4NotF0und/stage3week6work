@@ -14,3 +14,5 @@ store.subscribe(show)
 
 //这是stage2分支
 //张博叫二狗子
+
+//v1.0 ok
